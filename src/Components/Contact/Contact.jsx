@@ -51,7 +51,7 @@ const Contact = () => {
               <p>programmingwithmamun@gmail.com</p>
             </div>
             <div className="contact-detail">
-              <img src={call_icon} alt="" /> <p>+880963874626</p>
+              <img src={call_icon} alt="" /> <p>+8809638574626</p>
             </div>
             <div className="contact-detail">
               <img src={location_icon} alt="" /> <p>Dhaka, Bangladesh</p>
